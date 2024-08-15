@@ -8,7 +8,7 @@ Created on Thu Aug 15 11:15:47 2024
 import numpy as np
 import pickle
 import streamlit as st
-import sklearn
+
 
 def epilepsy_prediction(input_data, loaded_model):
     # Convert input_data to numpy array
