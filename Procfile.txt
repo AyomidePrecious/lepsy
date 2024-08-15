@@ -1,0 +1,1 @@
+web: streamlit run Epilepsy_Detection.py
